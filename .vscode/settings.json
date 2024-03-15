@@ -1,0 +1,7 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none",
+    "cmake.sourceDirectory": "D:/Coding-Files/Python/YOLOv5/Lite-27/android_demo/ncnn-android-v5lite/app/src/main/jni"
+}
